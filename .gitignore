@@ -1,0 +1,16 @@
+# Dados brutos (baixados do Kaggle — ver README.md)
+data/raw/*.csv
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SO
+.DS_Store
